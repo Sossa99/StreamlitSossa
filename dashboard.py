@@ -16,7 +16,7 @@ st.header("DASHBOARD")
 st.sidebar.header("INFORMACION DE LOS CASOS DE VIOLENCIA INTRAFAMILIAR")
 st.sidebar.markdown("---")
 
-servidor = 'http://127.0.0.1:8000'
+servidor = 'http://44.212.209.121:8000'
 
 @st.cache
 def index():
